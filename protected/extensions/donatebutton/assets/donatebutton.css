@@ -1,0 +1,46 @@
+.donatebox{
+    font-size: 12px;
+    padding: 4px 0 6px;
+    text-align: center;
+}
+
+.show_frame{
+    border: 1px solid #7291C7;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 4px inset;
+}
+
+.donatetext{
+    width: 100px;
+    float:left;
+}
+
+.donatemessage{
+    color: #7291C7;
+    font-weight: bold;
+}
+
+.donateamount{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.donatebutton{
+    background: url("paypal-logo.png") no-repeat scroll 12px 39px transparent;
+    float: left;
+    height: 50px;
+    padding-top: 12px;
+    width: 100px;
+}
+
+.div_sel_amount{
+	padding:2px 0;
+}
+
+.combo_amount{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #7291C7;
+    font-size: 10px;
+}
+
